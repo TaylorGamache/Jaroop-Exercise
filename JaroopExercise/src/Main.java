@@ -10,7 +10,11 @@ import org.jsoup.nodes.Element;
 /**
  * I chose to import Jsoup because I needed something to help deal with the html 
  * in the log file. After researching some options Jsoup seemed like a good option 
- * to use.
+ * to use. I also chose to just make this project one class because I did not see 
+ * a real advantage to separate some of the methods into separate classes for 
+ * such a small program. I also chose to display everything in the command line 
+ * because that is what I assumed you wanted when the instructions said to write
+ * a command line program. 
  * */
 
 /**
