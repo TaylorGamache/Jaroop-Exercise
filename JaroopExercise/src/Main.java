@@ -27,7 +27,7 @@ public class Main {
 	private static Scanner scanner = new Scanner(System.in);
 	
 	/** The file of the log to be updated and read. */
-	private static File myFile = new File("src/log.html");
+	private static File myFile = new File("log.html");
 	
 	/** The format the money values will be presented in. */
  	private static DecimalFormat df = new DecimalFormat("0.00");
